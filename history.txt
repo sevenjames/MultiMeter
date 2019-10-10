@@ -1,0 +1,24 @@
+v1 - 2017-03-03
+Initial design. 
+Mem, CPU, NetIn, NetOut.
+Colored backgrounds and borders. Red, Green, Blue.
+
+v2 - 2017-08-02
+Mem, CPU, NetIn, NetOut, DiskFree, Audio output indicator and toggle.
+Black backgrounds. Colored borders. Red, Green, Blue.
+
+v3 - 2019-02-10
+Mem, CPU, NetIn, NetOut, DiskFree
+Disk section is clickable to toggle between two disks.
+Separated variables and style definitions to separate file, mmconfig.ini.
+Removed audio section.
+Black backgrounds, all borders same color, soft dark purple.
+
+v4 - 2019-02-24
+Mem, CPU, NetIn, NetOut, DiskFree, Uptime
+Removed Disk switching toggle.
+Added separate line for additional disk.
+Reincorporated variables and style defenitions. No external files required.
+Applied Super Metroid color theme.
+Black backgrounds, dark purple borders, hot pink graphs, yellow header, white text.
+
