@@ -16,10 +16,9 @@ Theme black backgrounds, dark purple borders.
 
 v4 - 2019-02-24
 Mem, CPU, NetIn, NetOut, DiskFree, Uptime
-Removed Disk switching toggle.
-Added separate line for additional disk.
+Removed disk switching toggle. Added separate line for additional disk.
 Reincorporated variables and style defenitions. No external files required.
 Incorporate new "UseBits" option eliminating the redundant calculation.
-Theme: Super Metroid. Matched exact colors from emulation display.
+Theme: SNES Super Metroid. Matched exact colors from emulation display.
 Black backgrounds, dark purple borders, hot pink graphs, yellow header, white text.
 
