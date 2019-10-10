@@ -19,7 +19,7 @@ Mem, CPU, NetIn, NetOut, DiskFree, Uptime
 Removed Disk switching toggle.
 Added separate line for additional disk.
 Reincorporated variables and style defenitions. No external files required.
-Incorporate new "UseBits" function eliminating the extra calculation.
+Incorporate new "UseBits" option eliminating the redundant calculation.
 Theme: Super Metroid. Matched exact colors from emulation display.
 Black backgrounds, dark purple borders, hot pink graphs, yellow header, white text.
 
