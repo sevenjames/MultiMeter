@@ -1,4 +1,5 @@
 # MultiMeter
-Yet another system monitor Rainmeter skin.
+
+This is a Rainmeter skin. It requires [Rainmeter](https://www.rainmeter.net).
 
 ![screenshot](screenshot.png?raw=true)
