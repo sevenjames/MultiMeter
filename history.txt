@@ -1,15 +1,18 @@
+v5 - 2022-10-18
+Move style and config to separate files.
+Create variants for drive counts from 0 to 8.
+
 v4 - 2019-02-24
 Mem, CPU, NetIn, NetOut, DiskFree, Uptime
-Removed disk switching toggle. Added separate line for additional disk.
+Removed disk switching toggle. Added tile for additional disk.
 Reincorporated variables and style defenitions. No external files required.
 Incorporate new "UseBits" option eliminating the redundant calculation.
-Theme: SNES Super Metroid. Matched exact colors from emulation display.
-Black backgrounds, dark purple borders, hot pink graphs, yellow header, white text.
+Theme: Super Metroid (yellow, purple, pink matched from source).
 
 v3 - 2019-02-10
 Mem, CPU, NetIn, NetOut, DiskFree
 Disk section is clickable to toggle between two disks.
-Separated variables and style definitions to separate file, mmconfig.ini.
+Separated variables and style definitions to separate file.
 Removed audio section.
 Theme black backgrounds, dark purple borders.
 
